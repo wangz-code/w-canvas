@@ -1,0 +1,13 @@
+.active-color {
+  border: 1px rgb(0, 56, 187) solid;
+  border-radius: 100%;
+  overflow: hidden;
+  height: 61rpx;
+}
+.nutui-react-demo {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

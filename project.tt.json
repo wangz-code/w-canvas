@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "w-canvas",
+  "description": "canvas",
+  "appid": "wx7a90cde8b672a238",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}

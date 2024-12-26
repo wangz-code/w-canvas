@@ -1,0 +1,36 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4794581 */
+  /* Color fonts */
+  src: 
+       url('iconfont.woff2?t=1735179279706') format('woff2'),
+       url('iconfont.ttf?t=1735179279706') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.i-pen:before {
+  content: "\e62c";
+}
+
+.i-huabi:before {
+  content: "\e6d1";
+}
+
+.i-huabi1:before {
+  content: "\e626";
+}
+
+.i-huabicaise:before {
+  content: "\e608";
+}
+
+.i-xiangpi:before {
+  content: "\e77c";
+}
+
