@@ -2,8 +2,8 @@
   font-family: "iconfont"; /* Project id 4794581 */
   /* Color fonts */
   src: 
-       url('iconfont.woff2?t=1735179279706') format('woff2'),
-       url('iconfont.ttf?t=1735179279706') format('truetype');
+       url('iconfont.woff2?t=1735272936467') format('woff2'),
+       url('iconfont.ttf?t=1735272936467') format('truetype');
 }
 
 .iconfont {
@@ -12,6 +12,10 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.i-qicaihong:before {
+  content: "\e617";
 }
 
 .i-pen:before {

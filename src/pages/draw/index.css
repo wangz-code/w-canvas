@@ -11,3 +11,21 @@
   justify-content: center;
   align-items: center;
 }
+
+.scroll-box {
+  height: 70vh;
+  overflow-y: scroll;
+}
+.scroll-box .box {
+  width: auto;
+  margin: 20px;
+  text-align: center;
+}
+.linewidth {
+  width: 300rpx;
+}
+.list-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
